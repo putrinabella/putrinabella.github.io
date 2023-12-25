@@ -498,17 +498,17 @@ pre code {
 }
 @media (min-width: 576px) {
   .container {
-    max-width: 90%;
+    max-width: 80%;
   }
 }
 @media (min-width: 768px) {
   .container {
-    max-width: 90%;
+    max-width: 80%;
   }
 }
 @media (min-width: 992px) {
   .container {
-    max-width: 90%;
+    max-width: 80%;
   }
 }
 @media (min-width: 1200px) {
@@ -3921,7 +3921,7 @@ input[type="submit"].btn-block {
   flex-grow: 1;
   -ms-flex-align: center;
   align-items: center;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
